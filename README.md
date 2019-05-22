@@ -72,7 +72,7 @@ screen and (orientation: landscape) {
 </p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 体育祭、マスコット写真 船津さん提供 !!!</marquee></span></h1>
-<p><a href="https://torokoid.github.io/home">Home</a>>2010年同期会</p>
+<p><a href="https://torokoid.github.io/home">Home</a>>マスコット写真</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
@@ -82,15 +82,17 @@ screen and (orientation: landscape) {
 -->
 
 
-<a href="https://torokoid.github.io/hannari/20100826_001.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_001.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/hannari/20100826_002.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_002.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/hannari/20100826_003.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_003.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/hannari/20100826_004.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_004.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/hannari/20100826_005.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_005.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/hannari/20100826_006.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_006.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/hannari/20100826_007.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_007.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/hannari/20100826_008.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_008.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/hannari/20100826_009.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/hannari/20100826_009.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190521_001.JPG" data-lightbox="abc"><img src="20190521_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190521_002.JPG" data-lightbox="abc"><img src="20190521_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190521_003.JPG" data-lightbox="abc"><img src="20190521_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190521_004.JPG" data-lightbox="abc"><img src="20190521_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190521_005.JPG" data-lightbox="abc"><img src="20190521_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190521_006.JPG" data-lightbox="abc"><img src="20190521_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190521_007.JPG" data-lightbox="abc"><img src="20190521_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190521_008.JPG" data-lightbox="abc"><img src="20190521_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190521_009.JPG" data-lightbox="abc"><img src="20190521_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190521_010.JPG" data-lightbox="abc"><img src="20190521_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190521_011.JPG" data-lightbox="abc"><img src="20190521_011.JPG" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
 <!-- begin wwww.htmlcommentbox.com -->
