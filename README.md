@@ -40,7 +40,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/hannari/20100826_001.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/mascot/0190521_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -71,7 +71,7 @@ screen and (orientation: landscape) {
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 体育祭、マスコット写真 船津さん提供 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 体育祭、マスコット写真、 船津さん提供 !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>>マスコット写真</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
