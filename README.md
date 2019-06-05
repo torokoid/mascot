@@ -71,7 +71,7 @@ screen and (orientation: landscape) {
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 体育祭、マスコット写真、 船津さん、増子さん提供 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 体育祭、マスコット写真、 船津さん、片桐さん提供 !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>>マスコット写真</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -100,7 +100,7 @@ screen and (orientation: landscape) {
 <a href="20190521_016.JPG" data-lightbox="abc"><img src="20190521_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190521_017.JPG" data-lightbox="abc"><img src="20190521_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190521_018.JPG" data-lightbox="abc"><img src="20190521_018.JPG" alt="サンプル画像" width="900" /></a>
-<p><h2><span class="yellow">ここから、益子さん提供</span></h2></p>
+<p><h2><span class="yellow">ここから、片桐さん提供</span></h2></p>
 <a href="20190521_019.JPG" data-lightbox="abc"><img src="20190521_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190521_020.JPG" data-lightbox="abc"><img src="20190521_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190521_021.JPG" data-lightbox="abc"><img src="20190521_021.JPG" alt="サンプル画像" width="900" /></a>
